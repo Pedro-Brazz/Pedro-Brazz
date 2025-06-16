@@ -90,4 +90,4 @@ Eu me chamo Pedro Antonio Braz da Silva, tenho 18 anos e sou natural de Goiana -
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Brazz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>'
+</p>
