@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Pedro Antonio Braz da Silva, tenho 18 anos e sou natural de Goiana - PE. Concluí o ensino médio no SESI de Goiana - PE, com o curso técnico em Ánalise e Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unipê que fica localizada em João Pessoa - PB. Sou apaixonado por tecnologia desde sempre e com esse github pretendo mostrar meus conhecimentos para a comunidade da tecnologia.
+Eu me chamo Pedro Antonio Braz da Silva, tenho 18 anos e sou natural de Goiana - PE. Concluí o ensino médio no SESI de Goiana - PE, com o curso técnico em Ánalise e Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unipê que fica localizada em João Pessoa - PB. Sou apaixonado por tecnologia desde sempre e com esse github pretendo mostrar meus conhecimentos para a comunidade da tecnologia.
 
 <p>
     <a href="https://github.com/Pedro-Brazz?tab=repositories&sort=stargazers">
