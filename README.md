@@ -4,11 +4,11 @@ Desenvolvedor back-end
 
 Eu me chamo Pedro Antonio Braz da Silva, tenho 18 anos e sou natural de Goiana - PE. Concluí o ensino médio no SESI de Goiana - PE, com o curso técnico em Ánalise e Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unipê que fica localizada em João Pessoa - PB. Sou apaixonado por tecnologia desde sempre e com esse github pretendo mostrar meus conhecimentos para a comunidade da tecnologia.
 
-<h2 align="left">👋Olá! Me chamo Pedro Braz!</h2>
+<h2 align="left">👋Olá! Eu me chamo Pedro Braz!</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Brazz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-Brazz&locale=pt-br&hide_title=false&layout=compact&card_width=320&theme=radical&hide_border=true" height="" alt="languages graph"  />
 </div>
@@ -33,13 +33,6 @@ Eu me chamo Pedro Antonio Braz da Silva, tenho 18 anos e sou natural de Goiana -
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Pedro-Brazz/Pedro-Brazz/output/snake.svg" alt="Snake animation" />
-
-###
 ###
 
 <br clear="both">
